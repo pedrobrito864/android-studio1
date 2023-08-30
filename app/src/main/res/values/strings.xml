@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KotlinDIcoding</string>
+    <string name="number1">Input Number Here</string>
+    <string name="number2">Input Number Here</string>
+    <string name="plus">+</string>
+    <string name="min">-</string>
+    <string name="multiple">X</string>
+    <string name="divide">\\</string>
+    <string name="reset">reset</string>
+    <string name="reset1">Reset</string>
+</resources>
